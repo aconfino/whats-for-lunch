@@ -35,3 +35,6 @@ my account
   * create destinations
 create lunch plan (add lunch group, add destinations) \ sends notification
 lunch plan
+
+mvn tomcat7:run
+http://localhost:8080/movie/SpiderMan4
